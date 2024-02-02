@@ -1,3 +1,4 @@
+practice.argovera.ru
 # vue-shablon
 
 ## Project setup
